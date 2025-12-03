@@ -7,7 +7,7 @@ Small python code for a projectile with wind and drag.
 To run the code, you need to install the following Python libraries. You can install them using pip:
 
 ```bash
-pip install skrf matplotlib numpy
+pip install matplotlib numpy
 ```
 This project also requires Tkinter. Some systems do not include it by default, so you may need to install it manually.
 
